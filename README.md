@@ -23,4 +23,5 @@ Here's a list of some of the technologies I'm currently working with:
 ---
 
 ## Thanks for reading!
+---
 ### Updates will be added soon!
