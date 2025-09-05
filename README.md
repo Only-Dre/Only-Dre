@@ -1,5 +1,20 @@
+<p align="center">
+  <a href="https://github.com/Only-Dre/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Dre&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/Only-Dre/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Only-Dre&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
 # Hello there, I'm André, also known as Dre! 👋
-A developer with a passion for creating impactful solutions.
 
 ---
 
