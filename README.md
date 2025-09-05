@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Only-Dre/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only-Dre&layout=compact"
-    />
-  </a>
-
 # Hello there, I'm André, also known as Dre! 👋
 
 ---
@@ -29,6 +21,4 @@ Here's a list of some of the technologies I'm currently working with:
 
 ---
 
-## Thanks for reading!
----
-### Updates will be added soon!
+## Social Media, Portfolio and Contacts will be added soon!
